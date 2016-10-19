@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Karla/Documents/NetBeansProjects/Project1JSF_2/src/java/utng/datos/DAO.java</file>
+            <file>file:/C:/Users/Karla/Documents/NetBeansProjects/Project1JSF_2/web/procesos/form-procesos.xhtml</file>
+            <file>file:/C:/Users/Karla/Documents/NetBeansProjects/Project1JSF_2/src/java/utng/configuracion/HibernateUtil.java</file>
+            <file>file:/C:/Users/Karla/Documents/NetBeansProjects/Project1JSF_2/src/java/utng/manejador/ActividadBean.java</file>
+            <file>file:/C:/Users/Karla/Documents/NetBeansProjects/Project1JSF_2/web/actividades/list-actividades.xhtml</file>
+            <file>file:/C:/Users/Karla/Documents/NetBeansProjects/Project1JSF_2/src/java/utng/modelo/Actividad.java</file>
+            <file>file:/C:/Users/Karla/Documents/NetBeansProjects/Project1JSF_2/web/actividades/form-actividades.xhtml</file>
+            <file>file:/C:/Users/Karla/Documents/NetBeansProjects/Project1JSF_2/src/java/utng/datos/ActividadDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
